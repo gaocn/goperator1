@@ -1,0 +1,6 @@
+domain: govind.cn
+layout:
+- go.kubebuilder.io/v3
+projectName: goperator1
+repo: github.com/gaocn/goperator1
+version: "3"
